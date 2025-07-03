@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNhOGJxdnZjamtqbWF5N2ZzeHBnZmN3ZzI2ZTF3ZmxrMHJiN3Z4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kE6xCyOOHoxlS/giphy.gif" alt="Banner" width="100%"/>
-  </a>
-</div>
 
 <h1 align="center">Hi there, I'm Rasya 👋</h1>
 <h3 align="center">An AI Enthusiast and Web2/Web3 Developer from Indonesia 🇮🇩</h3>
