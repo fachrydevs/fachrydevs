@@ -11,8 +11,6 @@ I'm a passionate junior developer who loves building things for the web — from
 
 **Languages & Tools:**
 
-![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=Html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat&logo=Javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)
